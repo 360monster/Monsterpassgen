@@ -1,4 +1,4 @@
-	import random
+import random
 # colors
 yellow='\033[93m'
 gren='\033[92m'
